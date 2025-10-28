@@ -8,7 +8,7 @@
 
 /* تنسيق الصفحة */
 body {
-  background-color: #1a365d;
+  background: linear-gradient(135deg, #38a169 0%, #3182ce 100%);
 padding: 20px;
 }
 
